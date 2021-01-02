@@ -1,0 +1,11 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "~14.2.0"
+  }
+}
