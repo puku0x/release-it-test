@@ -4,7 +4,8 @@
     "commitMessage": "chore(*): bump v${version}"
   },
   "github": {
-    "release": true
+    "release": true,
+    "releaseName": "v${version}"
   },
   "npm": {
     "publish": false
