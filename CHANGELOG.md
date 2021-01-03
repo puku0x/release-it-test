@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/puku0x/release-it-test/compare/1.1.1...1.2.0) (2021-01-03)
+
+
+### Features
+
+* add commitlint ([b5f58a3](https://github.com/puku0x/release-it-test/commit/b5f58a33d1233845a96693f22c0af32171e7fc29))
+
 ## [1.1.1](https://github.com/puku0x/release-it-test/compare/1.1.0...1.1.1) (2021-01-02)
 
 
